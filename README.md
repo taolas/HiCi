@@ -22,3 +22,32 @@ Based on the analysis, the following key determinants were identified:
   * The country of origin for the most rejected food products.
   * The most common action taken against food exported to the EU.
   * The most reported origin (Country) of food exports.
+Additionally, risks associated with different food products were evaluated. Recommendation for HiCi African foods management were provided based on the identified risks, emphasizing the need to focus on specific food products to mitigate potential regulatory hurdles.
+
+# Getting Started
+
+To reproduce the analysis and view the Excel dashboard:
+
+  1. Obtain the raw data from the EU Food safety Standard Agency Portal.
+  2. Perform data cleaning using the appropriate software or tools (e.g, Excel, Python, R, etc)
+  3. Create the Excel dashboard by importing the cleaned data and setting up interactive visualizations and pivot tables.
+  4. Adjust the dashboard as needed to reflect the latest data or update the data source accordingly.
+  5. Explore the dashboard to gain insights into the determinants and risks associated with food exports to the EU market.
+
+# Dependencies
+
+The project requires the following dependences:
+
+  * Software or tools for data cleaning (e.g Excel, Python, R, etc)
+  * Microsoft Excel for creating the dashboard and pivot tables.
+
+# Contributing 
+
+Contributions to this project are currently not accepted as it is for demonstration purposes only.
+
+# License
+
+this project is licensed under the MIT.
+
+
+
