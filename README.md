@@ -49,5 +49,7 @@ Contributions to this project are currently not accepted as it is for demonstrat
 
 this project is licensed under the MIT.
 
+![dashboard](https://github.com/taolas/HiCi/assets/28709637/00f1cdc7-dfbd-41c5-94a4-309bcb67a024)
+
 
 
